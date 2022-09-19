@@ -317,9 +317,9 @@ amdefine@>=0.0.4:
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
 
 android-device-list@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/android-device-list/-/android-device-list-1.2.1.tgz#d81f59076bae7453f26792e54dc1568ccb6ba47c"
-  integrity sha512-ttKIAkeNdJB49aQaxHnCKgIIn+xDDOYgWA/SRsx5RwH2/943Y2it87KBqBDIr1ZsTHj2kcKNC0Nns/sCYLYvFw==
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/android-device-list/-/android-device-list-1.2.8.tgz#fdebccfcaba45ce8c646debbef8839591e48cbed"
+  integrity sha512-U17fI3nmlFRkMeG/fRQh2GTsFb+mt+Ygz7h39t8+ACdwGMvvFXqZt7yMejVPEXhcQlIMZYc4E8ZvVhExHWvs7w==
 
 angular-gettext-tools@^2.2.0:
   version "2.3.5"
